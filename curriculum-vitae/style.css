@@ -1,6 +1,6 @@
 body {
   padding: 0% 25%;
-  margin: 10% 0%;
+  margin: auto;
 }
 
 header {
@@ -13,7 +13,7 @@ hr, h2 {
 }
 
 h3 {
-  font-family: Signica;
+  font-family: 'Roboto', sans-serif;
 }
 
 p {
