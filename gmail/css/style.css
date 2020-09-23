@@ -1,5 +1,6 @@
 body {
-  background-image: url("/home/zaj/Esercizi/gmail/img/wood.jpg");
+  background-image: url("../img/wood.jpg"); 
+  /* ../ torna indietro di una cartella  */
 }
 
 .container {
